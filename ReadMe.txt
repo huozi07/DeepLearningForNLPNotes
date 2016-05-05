@@ -1,1 +1,1 @@
-This is examples of deep learning code in NLP.
+There are examples of deep learning code in NLP.
